@@ -1,4 +1,4 @@
 # Todos-ripoff
-A ripoff of a todos app my friend made.
+My attempt at ripping-off a todos app
 
-Uses nodejs(electron), html, css and jquery
+Uses nodejs(electron), html, css and javascript(jquery)
